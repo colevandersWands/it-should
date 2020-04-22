@@ -1,5 +1,5 @@
 itShould('assertion: ok', function okSpec(test) {
-  // debugger;
+  debugger;
   test.ok(false, 'failing ok');
   test.ok(true, 'passing ok');
   test.ok(null);
